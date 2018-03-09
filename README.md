@@ -3,7 +3,10 @@ A collection of work (Practical class exercises, projects etc.) from draff1800's
 
 This repository contains work from:
 
-YEAR 2
-SEMESTER 2
-ALGORITHMS AND DATA STRUCTURES
-WEEK 5
+- YEAR 2
+
+- SEMESTER 2
+
+- ALGORITHMS AND DATA STRUCTURES
+
+- WEEK 5
